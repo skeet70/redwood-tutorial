@@ -1,5 +1,7 @@
+import BlogPostsCell from 'src/components/BlogPostsCell'
+
 const HomePage = () => {
-  return <>Home</>
+  return <BlogPostsCell />
 }
 
 export default HomePage
